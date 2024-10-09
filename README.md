@@ -8,8 +8,7 @@ estableció un tratado en el cual se disponía que los visigodos se asentaran en
 la Galia y controlaran algunos territorios en Hispania.
 
 ## Índice
-1. Época
-[Epoca](Epoca.md)
+1. [Epoca](Epoca.md)
 2. Arquitectura
 3. Obras más significativas
    
