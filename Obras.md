@@ -14,3 +14,4 @@ La iglesia de San Pedro de la Nave (Zamora), como participando de uno y otro tip
 La capilla de San Fructuoso de Montelius en Braga, Portugal.
 La iglesia de Santa Lucía del Trampal en Alcuéscar, Cáceres.
 La Iglesia de Santa María de Melque de San Martín de Montalbán (Toledo).
+
